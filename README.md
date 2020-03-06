@@ -20,4 +20,6 @@ Includes folders as follows containing:
   - Bootstrapping statistics
 - Machine-Learning
   - Linear Regression
+    - Using Boston Housing data set
   - Logistic Regression
+    - categorizing height and weight based on gender
