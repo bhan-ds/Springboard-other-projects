@@ -1,6 +1,11 @@
 # Springboard course work
 
 Includes folders as follows containing:
+- Capstone 1: Can you predict Medicare payments for a specific diagnosis in the hospital. How does that compare to other diagnoses and to Medicare payments on average?
+  - Original data
+  - Initial project proposal
+  - Data wrangling and storytelling
+  - Statistical analysis
 - Mini-projects
   - API 
     - Using quandl, complete the following tasks for this mini project:
