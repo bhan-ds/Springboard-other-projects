@@ -28,3 +28,5 @@ Includes folders as follows containing:
     - Using Boston Housing data set
   - Logistic Regression
     - categorizing height and weight based on gender
+  - Naive Bayes
+    - classifying rotten tomatoes movie reviews
