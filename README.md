@@ -35,3 +35,5 @@ Includes folders as follows containing:
     - categorizing height and weight based on gender
   - Naive Bayes
     - classifying rotten tomatoes movie reviews
+  - Clustering
+    - customer segmentation using clustering
