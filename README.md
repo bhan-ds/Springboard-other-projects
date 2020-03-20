@@ -4,8 +4,13 @@ Includes folders as follows containing:
 - Capstone 1: Can you predict Medicare payments for a specific diagnosis in the hospital? How does that compare to other diagnoses and to Medicare payments on average?
   - Original data
   - Initial project proposal
-  - Data wrangling and storytelling
+  - Data wrangling and storytelling (included in code)
   - Statistical analysis
+  - Milestone Report
+  - In depth analysis including linear regression
+  - Final Report
+  - Slide deck
+  - Jupyter notebook containing all code
 - Mini-projects
   - API 
     - Using quandl, complete the following tasks for this mini project:
