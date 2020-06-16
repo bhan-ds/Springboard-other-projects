@@ -1,16 +1,7 @@
 # Springboard course work
 
 Includes folders as follows containing:
-- Capstone 1: Can you predict Medicare payments for a specific diagnosis in the hospital? How does that compare to other diagnoses and to Medicare payments on average?
-  - Original data
-  - Initial project proposal
-  - Data wrangling and storytelling (included in code)
-  - Statistical analysis
-  - Milestone Report
-  - In depth analysis including linear regression
-  - Final Report
-  - Slide deck
-  - Jupyter notebook containing all code
+
 - Capstone 2: Analyzing sales data for a single company
   - Original data
   - Jupyter notebook containing data wrangling, statistical analysis
