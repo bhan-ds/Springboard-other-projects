@@ -2,9 +2,6 @@
 
 Includes folders as follows containing:
 
-- Capstone 2: Analyzing sales data for a single company
-  - Original data
-  - Jupyter notebook containing data wrangling, statistical analysis
 - Mini-projects
   - API 
     - Using quandl, complete the following tasks for this mini project:
